@@ -1,0 +1,1060 @@
+{
+    "user_data": {
+        "ilham": {
+            "password_hash": "03eaf4a39bcdf0d00943dfa8612bf2c233947d92830b55ab23f68a32ae976ac6",
+            "public": [
+                17,
+                4891
+            ],
+            "private": [
+                4193,
+                4891
+            ],
+            "color": "#21bcfb"
+        },
+        "zizi": {
+            "password_hash": "737954b373746bb058a45d9e06a47ed0c12552b2271c909e0f783fbb984f607e",
+            "public": [
+                17,
+                6497
+            ],
+            "private": [
+                2609,
+                6497
+            ],
+            "color": "#039b41"
+        },
+        "qawas": {
+            "password_hash": "b2a5653fa3c75633309f370c91be8aa69c9f291194bacc226597e975f65ad491",
+            "public": [
+                17,
+                6497
+            ],
+            "private": [
+                2609,
+                6497
+            ],
+            "color": "#48bd5e"
+        },
+        "fandi": {
+            "password_hash": "3b1845b9c9046f80633453d50d902fe976e22db714a498ccbbf63eb533a7e48e",
+            "public": [
+                17,
+                4189
+            ],
+            "private": [
+                1433,
+                4189
+            ],
+            "color": "#dfddfd"
+        },
+        "stelc": {
+            "password_hash": "ad9b044dd211ef1ad932551f216dfe64bd373b8d861dcac018cb29e912741b9a",
+            "public": [
+                17,
+                5251
+            ],
+            "private": [
+                1201,
+                5251
+            ],
+            "color": "#8a78fd"
+        },
+        "najwa delvyra": {
+            "password_hash": "bef80d8b35e22d493d9a2ce51d58dcfd600bea56a5200199eed6ea6a18db99fe",
+            "public": [
+                17,
+                3869
+            ],
+            "private": [
+                881,
+                3869
+            ],
+            "color": "#f9cfb8"
+        },
+        "fandi ilham ramadhan": {
+            "password_hash": "3b1845b9c9046f80633453d50d902fe976e22db714a498ccbbf63eb533a7e48e",
+            "public": [
+                17,
+                4189
+            ],
+            "private": [
+                1433,
+                4189
+            ],
+            "color": "#ffbdf1"
+        },
+        "graciela": {
+            "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+            "public": [
+                17,
+                5963
+            ],
+            "private": [
+                1025,
+                5963
+            ],
+            "color": "#716ebf"
+        },
+        "januar": {
+            "password_hash": "307cd37740be8e06dca345f779ce6ae16c633be0ededa55f5435fbc06935d453",
+            "public": [
+                17,
+                6557
+            ],
+            "private": [
+                1505,
+                6557
+            ],
+            "color": "#d4cfd0"
+        },
+        "step": {
+            "password_hash": "fa24abeece0cc5742f5e9143299f4460c99ee862c75e267b63824b71bc9d056d",
+            "public": [
+                17,
+                3763
+            ],
+            "private": [
+                1713,
+                3763
+            ],
+            "color": "#f17386"
+        },
+        "najwaa": {
+            "password_hash": "5303a4d34afedfe2465583cd3d8e46989df42c54ded65d10b1385fefc123c3bb",
+            "public": [
+                17,
+                7921
+            ],
+            "private": [
+                6833,
+                7921
+            ],
+            "color": "#a4e244"
+        },
+        "najwa": {
+            "password_hash": "e086e7b9276e6312e486bf22fedb12aa3a88ff2f52fd57f8040ea370ebe6f9a3",
+            "public": [
+                17,
+                5429
+            ],
+            "private": [
+                1553,
+                5429
+            ],
+            "color": "#f62fb3"
+        }
+    },
+    "messages": [
+        {
+            "id": 30,
+            "sender": "reza",
+            "recipient": "galih",
+            "ciphertext": [
+                2616,
+                3777,
+                2929,
+                2929,
+                3604,
+                905
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 31,
+            "sender": "reza",
+            "recipient": "galih",
+            "ciphertext": [
+                2616,
+                3777,
+                2034,
+                3604
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 32,
+            "sender": "galih",
+            "recipient": "reza",
+            "ciphertext": [
+                1904,
+                306,
+                2318
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 34,
+            "sender": "love",
+            "recipient": "saiful",
+            "ciphertext": [
+                983,
+                3296,
+                4051,
+                1233,
+                1233
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 35,
+            "sender": "saiful",
+            "recipient": "love",
+            "ciphertext": [
+                660,
+                1792,
+                660,
+                453,
+                2790,
+                4146,
+                3567
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 39,
+            "sender": "love",
+            "recipient": "saiful",
+            "ciphertext": [
+                3186,
+                4133,
+                2999,
+                4133,
+                2215,
+                345,
+                3186,
+                4133,
+                704,
+                4133,
+                35
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 40,
+            "sender": "love",
+            "recipient": "ga",
+            "ciphertext": [
+                3199,
+                4088
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 66,
+            "sender": "yuna",
+            "recipient": "najwa delvyra",
+            "ciphertext": [
+                1695,
+                4143,
+                1695,
+                879,
+                2798,
+                3817,
+                3962
+            ],
+            "is_deleted": false,
+            "plaintext": "i\u0004i;\u0747\ufffd"
+        },
+        {
+            "id": 67,
+            "sender": "yuna",
+            "recipient": "najwa delvyra",
+            "ciphertext": [
+                3929,
+                2798,
+                4143,
+                607,
+                1695
+            ],
+            "is_deleted": false,
+            "plaintext": "P\ufffd\u0004\u007fi"
+        },
+        {
+            "id": 69,
+            "sender": "najwa delvyra",
+            "recipient": "yuna",
+            "ciphertext": [
+                489,
+                489,
+                4396,
+                4396,
+                4396,
+                4396
+            ],
+            "is_deleted": false,
+            "plaintext": ""
+        },
+        {
+            "id": 72,
+            "sender": "yuna",
+            "recipient": "najwa delvyra",
+            "ciphertext": [
+                1695,
+                4488,
+                3962,
+                879,
+                2798,
+                3817,
+                3962,
+                879,
+                434,
+                4142,
+                879,
+                3929,
+                2798,
+                4143,
+                607,
+                1695,
+                879,
+                3418,
+                2798,
+                2123,
+                2798,
+                329,
+                879,
+                3817,
+                1525,
+                879,
+                3817,
+                2798,
+                3962,
+                879,
+                4143,
+                2798,
+                1317,
+                3474,
+                2798,
+                3817,
+                3587
+            ],
+            "is_deleted": false,
+            "plaintext": "i8\ufffd;\u0747\ufffd;W2;P\ufffd\u0004\u007fi;\ufffd\ufffdv\ufffd\ufffd;\ufffdp;\ufffd\u0775;\u0004\u0764\u000f\u0747\n"
+        },
+        {
+            "id": 73,
+            "sender": "najwa delvyra",
+            "recipient": "yuna",
+            "ciphertext": [
+                434,
+                2798,
+                879,
+                3817,
+                2798,
+                2123,
+                489,
+                879,
+                3474,
+                1695,
+                4143,
+                607,
+                2798,
+                4396,
+                879,
+                3962,
+                329,
+                1525,
+                2306,
+                879,
+                3418,
+                2798,
+                2306,
+                3962,
+                879,
+                3817,
+                1525,
+                2123,
+                1695,
+                2798,
+                4488,
+                2798,
+                4143
+            ],
+            "is_deleted": false,
+            "plaintext": ""
+        },
+        {
+            "id": 74,
+            "sender": "yuna",
+            "recipient": "najwa delvyra",
+            "ciphertext": [
+                1317,
+                1317,
+                4142,
+                879,
+                4142,
+                1695,
+                4488,
+                3962
+            ],
+            "is_deleted": false,
+            "plaintext": "\ufffd\ufffd2;2i8\ufffd"
+        },
+        {
+            "id": 75,
+            "sender": "najwa delvyra",
+            "recipient": "yuna",
+            "ciphertext": [
+                434,
+                2798,
+                3962,
+                607,
+                2798,
+                2798,
+                2798
+            ],
+            "is_deleted": false,
+            "plaintext": ""
+        },
+        {
+            "id": 138,
+            "sender": "najwa delvyra",
+            "recipient": "galang",
+            "ciphertext": [
+                4396,
+                5659,
+                222,
+                2498,
+                5659,
+                222,
+                222
+            ],
+            "is_deleted": false,
+            "plaintext": ""
+        },
+        {
+            "id": 139,
+            "sender": "najwa delvyra",
+            "recipient": "galang",
+            "ciphertext": [
+                4396,
+                1754,
+                4396,
+                2498,
+                222,
+                4340,
+                4829,
+                2498,
+                4953,
+                222,
+                1754,
+                4407,
+                4396,
+                2498,
+                1754,
+                222,
+                545,
+                2090,
+                222
+            ],
+            "is_deleted": false,
+            "plaintext": ""
+        },
+        {
+            "id": 140,
+            "sender": "najwa delvyra",
+            "recipient": "galang",
+            "ciphertext": [
+                4396,
+                1754,
+                4396,
+                2498,
+                3867,
+                222,
+                2205,
+                4396,
+                5460,
+                2498,
+                222,
+                4340,
+                4829,
+                1754,
+                2498,
+                3867,
+                4829,
+                2498,
+                2809,
+                890,
+                3561,
+                222,
+                3561,
+                1293,
+                4396,
+                2498,
+                5659,
+                222
+            ],
+            "is_deleted": false,
+            "plaintext": ""
+        },
+        {
+            "id": 155,
+            "sender": "najwa delvyra",
+            "recipient": "ilham",
+            "ciphertext": [
+                4287,
+                489,
+                1695,
+                1695,
+                1695
+            ],
+            "plaintext": "woiii",
+            "is_deleted": false
+        },
+        {
+            "id": 166,
+            "sender": "nailah",
+            "recipient": "ilham",
+            "ciphertext": [
+                4396,
+                2798,
+                2123,
+                489,
+                879,
+                1695,
+                2123,
+                4396,
+                2798,
+                1317
+            ],
+            "plaintext": "halo ilham",
+            "is_deleted": false
+        },
+        {
+            "id": 172,
+            "sender": "ilham",
+            "recipient": "nailah",
+            "ciphertext": [
+                2798,
+                3474,
+                2798,
+                3587,
+                3019,
+                3019
+            ],
+            "plaintext": "apa?!!",
+            "is_deleted": false
+        },
+        {
+            "id": 184,
+            "sender": "ilham",
+            "recipient": "najwa delvyra",
+            "plaintext": "hah?",
+            "ciphertext": [
+                1637,
+                306,
+                1637,
+                739
+            ],
+            "is_deleted": false
+        },
+        {
+            "id": 185,
+            "sender": "fandi",
+            "recipient": "zizi",
+            "ciphertext": [
+                4259,
+                1463,
+                1116,
+                1695,
+                5418,
+                1463,
+                1427,
+                1463,
+                5418,
+                3205,
+                1695
+            ],
+            "plaintext": "lagi apa Zi"
+        },
+        {
+            "id": 194,
+            "sender": "step",
+            "recipient": "zizi",
+            "ciphertext": [
+                2116,
+                1463,
+                4259,
+                4939
+            ],
+            "plaintext": "Halo"
+        },
+        {
+            "id": 195,
+            "sender": "step",
+            "recipient": "fandi ilham ramadhan",
+            "ciphertext": [
+                1989,
+                2666,
+                4088
+            ],
+            "plaintext": "Hai"
+        },
+        {
+            "id": 196,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwa delvyra",
+            "ciphertext": [
+                3434,
+                2144,
+                3434
+            ],
+            "plaintext": "ada"
+        },
+        {
+            "id": 197,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "step",
+            "ciphertext": [
+                2753,
+                730,
+                2384,
+                2522,
+                2362,
+                884,
+                730,
+                2891
+            ],
+            "plaintext": "hei Step"
+        },
+        {
+            "id": 199,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "step",
+            "ciphertext": [
+                11,
+                884,
+                1034,
+                730,
+                11,
+                11,
+                2522,
+                11,
+                884,
+                730,
+                2891,
+                2522,
+                2753,
+                2753,
+                2753
+            ],
+            "plaintext": "stress step hhh"
+        },
+        {
+            "id": 200,
+            "sender": "step",
+            "recipient": "fandi ilham ramadhan",
+            "ciphertext": [
+                3162,
+                3800,
+                2590,
+                2522,
+                1928,
+                2091,
+                1389,
+                2292,
+                1928,
+                2952,
+                2522,
+                3349,
+                2666,
+                3296,
+                4088,
+                2522,
+                64,
+                3067,
+                2590,
+                4088,
+                2666,
+                2590,
+                2969,
+                2666,
+                2522,
+                4088,
+                2091,
+                3067,
+                2522,
+                2339,
+                2666,
+                2590
+            ],
+            "plaintext": "Jgn stres\" kali dunianya itu fan"
+        },
+        {
+            "id": 201,
+            "sender": "step",
+            "recipient": "graciela",
+            "ciphertext": [
+                4341,
+                306,
+                4988
+            ],
+            "plaintext": "Hai"
+        },
+        {
+            "id": 207,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "step",
+            "ciphertext": [
+                1123,
+                1708,
+                2833,
+                2753,
+                2851,
+                2522,
+                2430,
+                730,
+                884,
+                1708,
+                2235,
+                1386,
+                2522,
+                678,
+                2544,
+                678,
+                2522,
+                1432,
+                1805,
+                1708,
+                1432,
+                2522,
+                1386,
+                2384,
+                884,
+                1789,
+                2522,
+                11,
+                884,
+                730,
+                2891,
+                2522,
+                1432,
+                1708,
+                1432
+            ],
+            "plaintext": "yodh, metong aja klok gitu step kok"
+        },
+        {
+            "id": 213,
+            "sender": "najwaa",
+            "recipient": "fandi ilham ramadhan",
+            "ciphertext": [
+                2323,
+                2666,
+                2590,
+                437,
+                2522,
+                2871,
+                3199,
+                2332,
+                2666,
+                2522,
+                3349,
+                4088,
+                1389,
+                4088,
+                229,
+                2522,
+                2323,
+                2292,
+                1928,
+                2666,
+                2590,
+                2522,
+                3296,
+                2666,
+                3800,
+                4088,
+                437,
+                2522,
+                229,
+                2666,
+                1928,
+                4088,
+                2966,
+                2522,
+                3349,
+                2666,
+                2969,
+                2666,
+                2522,
+                3800,
+                4088,
+                2091,
+                3067,
+                2522,
+                3800,
+                2666,
+                2522,
+                64,
+                4088,
+                2666
+            ],
+            "plaintext": "pan, coba kirim pesan lagi, masih kaya gitu ga dia"
+        },
+        {
+            "id": 214,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwaa",
+            "ciphertext": [
+                213,
+                4195,
+                4
+            ],
+            "plaintext": "\u0018\ufffdQ"
+        },
+        {
+            "id": 215,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwaa",
+            "ciphertext": [
+                6034,
+                3065,
+                5313,
+                4,
+                213,
+                6168
+            ],
+            "plaintext": "\ufffd1\ufffdQ\u0018'"
+        },
+        {
+            "id": 216,
+            "sender": "najwaa",
+            "recipient": "fandi ilham ramadhan",
+            "ciphertext": [
+                229,
+                2666,
+                1928,
+                4088,
+                2966,
+                2522,
+                2666,
+                2590,
+                2260,
+                2666,
+                2666,
+                2969,
+                2969,
+                437,
+                2522,
+                2666,
+                2323,
+                2666,
+                3296,
+                2666,
+                2522,
+                229,
+                2666,
+                1928,
+                2666,
+                3296,
+                2666,
+                2966,
+                2590,
+                2969,
+                2666
+            ],
+            "plaintext": "masih anjaayy, apala masalahnya"
+        },
+        {
+            "id": 217,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwaa",
+            "ciphertext": [
+                7791,
+                3065,
+                791,
+                1057,
+                2975,
+                3065,
+                2449
+            ],
+            "plaintext": "gak tau"
+        },
+        {
+            "id": 218,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwaa",
+            "ciphertext": [
+                5240,
+                3065,
+                1057,
+                791,
+                3065,
+                5313,
+                4,
+                3065,
+                2808,
+                2808
+            ],
+            "plaintext": "\ufffd1b21\ufffdQ1\ufffd\ufffd"
+        },
+        {
+            "id": 219,
+            "sender": "najwaa",
+            "recipient": "fandi ilham ramadhan",
+            "ciphertext": [
+                2590,
+                2666,
+                2966,
+                2522,
+                4088,
+                2091,
+                3067,
+                2522,
+                64,
+                4088,
+                2666,
+                2590,
+                2091,
+                2666,
+                1389,
+                2666,
+                2522,
+                2323,
+                2292,
+                1928,
+                2666,
+                2590,
+                2522,
+                229,
+                3067,
+                2522,
+                2666,
+                64,
+                2666,
+                2522,
+                2969,
+                3800,
+                2522,
+                2590,
+                3199,
+                1389,
+                229,
+                2666,
+                3296
+            ],
+            "plaintext": "nah itu diantara pesan mu ada yg normal"
+        },
+        {
+            "id": 220,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwaa",
+            "ciphertext": [
+                213,
+                6034,
+                6034,
+                6034,
+                4375,
+                4375,
+                4375,
+                1057,
+                7791,
+                2975,
+                15,
+                1057,
+                3065,
+                791,
+                2449
+            ],
+            "plaintext": "\u0018\ufffd\ufffd\ufffd999bf\ufffd2b12\ufffd"
+        },
+        {
+            "id": 221,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwa",
+            "ciphertext": [
+                2215,
+                4133,
+                4051,
+                345,
+                5376,
+                4051,
+                4133,
+                4666,
+                345,
+                1233,
+                4133,
+                849,
+                983,
+                3765
+            ],
+            "plaintext": "kau buat lagi?"
+        },
+        {
+            "id": 222,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwaa",
+            "ciphertext": [
+                1505,
+                4195,
+                4882,
+                2892,
+                7791,
+                1057,
+                791,
+                3065,
+                2449,
+                6168
+            ],
+            "plaintext": "\ufffd\ufffd\ufffd\ufffdfb21\ufffd'"
+        },
+        {
+            "id": 223,
+            "sender": "najwaa",
+            "recipient": "fandi ilham ramadhan",
+            "ciphertext": [
+                4088,
+                1928,
+                2522,
+                2590,
+                2091,
+                2666,
+                2966,
+                3296,
+                2666,
+                2666,
+                2966,
+                2966,
+                2966
+            ],
+            "plaintext": "is ntahlaahhh"
+        },
+        {
+            "id": 224,
+            "sender": "najwaa",
+            "recipient": "fandi ilham ramadhan",
+            "ciphertext": [
+                2091,
+                2091,
+                2323,
+                2522,
+                3800,
+                2666,
+                2332,
+                4088,
+                1928,
+                2666,
+                2666
+            ],
+            "plaintext": "ttp gabisaa"
+        },
+        {
+            "id": 225,
+            "sender": "fandi ilham ramadhan",
+            "recipient": "najwaa",
+            "ciphertext": [
+                6299,
+                7687,
+                6299,
+                7687,
+                6299,
+                7687,
+                7687,
+                6299,
+                7687
+            ],
+            "plaintext": "HAHAHAAHA"
+        }
+    ]
+}
